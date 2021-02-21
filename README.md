@@ -1,6 +1,6 @@
 # Machine-Learning-with-Python-Projects
 
-##1. Python Data Preprocessing Techniques
+## 1. Python Data Preprocessing Techniques
 Machine Learning algorithms don’t work so well with processing raw data. Before we can feed such data to an ML algorithm, we must preprocess it. In other words, we must apply some transformations on it. With data preprocessing, we convert raw data into a clean data set.
 
 
